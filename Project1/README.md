@@ -1,20 +1,19 @@
-# Project Title (Update)
+# Factorial Calculator (Update)
 
-Add a description of your project here.
-
+A factorial calculator using recursion. It uses enum and structs as the extra for the project. One is the verbose bool, the other handles the errors. It meets all other requirements, and allows user imput and a verbose feature. Mostly build with AI teaching yours truly, me. 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Install Rust (if not installed)
+2. run 'cargo build --release' in directory of project
+3. run 'cargo run --release'
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. type y or n for verbose
+2. type a number below 21
+3. type q to quit
 
 ## Development Environment
 
